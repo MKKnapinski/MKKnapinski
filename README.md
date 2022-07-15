@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @MKKnapinski, Or Michał Knapiński (In human terms). I'm a software developer and a huge nerd.
-- 👀 I’m interested in software engineering, chess and rpg. Told ya.
-- 🌱 I’m currently learning to get my CCNA.
-- 💞️ I’m looking to collaborate on open source projects. Especially some goddamn good and universal time tracker. Commercial solutions are kind of meh. Epiforge's grindstone is good, but Windows only.
-- 📫 How to reach me: I'm a traditionalist, drop me an email: mkknapinski@gmail.com
+
